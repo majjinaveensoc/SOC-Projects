@@ -45,6 +45,8 @@ This project demonstrates how a SOC Analyst can investigate Windows authenticati
 
 ### Event ID 4625 - Failed Login Events
 
+![Failed Login Events](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(72).png?raw=true)
+
 ### Failed Login Investigation
 
 ### Authentication Statistics
