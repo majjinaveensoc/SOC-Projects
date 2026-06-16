@@ -43,14 +43,24 @@ This project demonstrates how a SOC Analyst can investigate Windows authenticati
 
 ### Event ID 4624 - Successful Login Events
 
+![Successful Login Events](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(73).png?raw=true)
+
 ### Event ID 4625 - Failed Login Events
 
 ![Failed Login Events](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(72).png?raw=true)
 
 ### Failed Login Investigation
 
+![Failed Login Investigation](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(74).png?raw=true)
+
 ### Authentication Statistics
+
+![Authentication Statistics](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(78).png?raw=true)
 
 ### Top Accounts by Login Activity
 
+![Top Accounts by Login Activity](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(75).png?raw=true)
+
 ### Failure Reason Analysis
+
+![Failure Reason Analysis](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(79).png?raw=true)
