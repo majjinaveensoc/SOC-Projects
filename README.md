@@ -21,8 +21,7 @@ Skills Demonstrated:
 
 Project File:
 
-- Windows-Authentication-Monitoring.md
-
+- [Windows Authentication Monitoring](Windows-Authentication-Monitoring.md)
 ---
 
 ## Tools Used
