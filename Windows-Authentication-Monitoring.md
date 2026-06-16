@@ -57,10 +57,19 @@ This project demonstrates how a SOC Analyst can investigate Windows authenticati
 
 ![Authentication Statistics](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(78).png?raw=true)
 
+Analysis:
+Authentication events were aggregated by account name to understand login frequency and establish a baseline for user activity.
+
 ### Top Accounts by Login Activity
 
 ![Top Accounts by Login Activity](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(75).png?raw=true)
 
+Analysis:
+The analysis shows the most active accounts in the environment. This helps SOC analysts identify normal user behavior and detect unusual account activity.
+
 ### Failure Reason Analysis
 
 ![Failure Reason Analysis](https://github.com/majjinaveensoc/SOC-Projects/blob/main/Screenshot%20(79).png?raw=true)
+
+Analysis:
+The failed login attempt was triggered by an invalid username or incorrect password. Splunk helped identify the account involved, the affected host, and the exact failure reason from Windows Security logs.
