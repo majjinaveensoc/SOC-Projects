@@ -38,3 +38,17 @@ Verified successful authentication events.
 ## Conclusion
 
 This project demonstrates how a SOC Analyst can investigate Windows authentication activity using Splunk Enterprise.
+
+## Screenshots
+
+### Event ID 4624 - Successful Login Events
+
+### Event ID 4625 - Failed Login Events
+
+### Failed Login Investigation
+
+### Authentication Statistics
+
+### Top Accounts by Login Activity
+
+### Failure Reason Analysis
